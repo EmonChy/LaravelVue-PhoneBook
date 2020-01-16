@@ -1,2 +1,2 @@
-First create the db name and then import the sql file in db. Put the LaraEcommerce folder in htdocs directory of xammp. 
+First create the db name and then import the sql file in db. Put the phonebook folder in htdocs directory of xammp. 
 
